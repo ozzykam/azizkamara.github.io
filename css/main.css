@@ -625,6 +625,14 @@ section,
   font-weight: 700;
   font-size: 24px;
 }
+.about .content h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--default-color), transparent 20%);
+  margin-bottom: 10px;
+}
 
 .about .content ul {
   list-style: none;
